@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = ""
+baseurl = "https://angry-bhabha-11d033.netlify.app/"
 languageCode = "en"
 title = "Vex"
 theme = "vex-hugo"
